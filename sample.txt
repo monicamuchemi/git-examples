@@ -1,3 +1,4 @@
 Good Morning Kenya!
 How is the weather in KE?
 Its sunny today
+Pushing code to github
